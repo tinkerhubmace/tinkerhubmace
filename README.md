@@ -2,7 +2,9 @@
 
 # Welcome to TinkerHub MACE 💻
 <img src="./TinkerHub_MACE.png" ></img>
----
+
+We are a peer learning community, creating exposure in the field of tech.
+Let's connect, explore and inspire change together! 👯
 
 ### What are we upto right now?
 
