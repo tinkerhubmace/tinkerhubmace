@@ -2,12 +2,12 @@
 
 # Welcome to TinkerHub MACE 💻
 ---
+
 ### What are we upto right now?
 
 Well, it's halfway through October. Still wondering how to get started with open-source contribution?
 We've got you!
-
-### Head over to <a href="https://github.com/tinkerhubmace/mashithandu"> mashithandu </a>
+#### Head over to <a href="https://github.com/tinkerhubmace/mashithandu"> mashithandu </a> and make your first step with us! 
 
 
 ---
