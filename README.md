@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 # Welcome to TinkerHub MACE 💻
+<img src="./TinkerHub_MACE.png" ></img>
 ---
 
 ### What are we upto right now?
