@@ -3,8 +3,6 @@
 # Welcome to TinkerHub MACE! 🤩
 ![](minions-yay.gif)
 
-### We are a peer learning community, creating exposure in the field of tech. <br/> Let's connect, explore and inspire change together! 👯
-
 ----
 
 
@@ -12,7 +10,7 @@
 
 Well, it's halfway through October. Still wondering how to get started with open-source contribution?
 We've got you! ⚡
-#### Head over to <a href="https://github.com/tinkerhubmace/mashithandu"> mashithandu </a> and take your first step with us!
+#### Head over to <a href="https://github.com/tinkerhubmace/mashithandu"> mashithandu </a> and take your first step with us! 👯
 Let's learn more about open source, it's idea, and how you can start contributing... ✨ 
 
 ---
