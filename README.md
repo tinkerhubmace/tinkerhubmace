@@ -7,9 +7,9 @@
 ### What are we upto right now?
 
 Well, it's halfway through October. Still wondering how to get started with open-source contribution?
-We've got you!
+We've got you! ⚡
 #### Head over to <a href="https://github.com/tinkerhubmace/mashithandu"> mashithandu </a> and take your first step with us!
-Make your first piece of code for an open source project. Let's learn more about open source, it's idea, and how you can start contributing.
+Let's learn more about open source, it's idea, and how you can start contributing... ✨ 
 
 ---
 <pre>
@@ -19,7 +19,7 @@ Make your first piece of code for an open source project. Let's learn more about
 
 
 <!--
-**tinkerhubmace/tinkerhubmace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tinkerhubmace/tinkerhubmace** is a ✨ _special_ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
