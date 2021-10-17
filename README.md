@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Welcome to TinkerHub MACE 💻
-
+---
 ### What are we upto right now?
 
 Well, it's halfway through October. Still wondering how to get started with open-source contribution?
