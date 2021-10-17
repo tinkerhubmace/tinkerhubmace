@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-# We are TinkerHub MACE 💻
-
+# Welcome to TinkerHub MACE 💻
 <img src="./TinkerHub_MACE.png" ></img>
---
 
+#### We are a peer learning community, creating exposure in the field of tech.
+#### Let's connect, explore and inspire change together! 👯
 
+----
 
-## Stay Updated
-  
-  - Get started with git
-  - your first open source contibution 
+## What are we upto right now?
 
-
-
+Well, it's halfway through October. Still wondering how to get started with open-source contribution?
+We've got you! ⚡
+#### Head over to <a href="https://github.com/tinkerhubmace/mashithandu"> mashithandu </a> and take your first step with us!
+Let's learn more about open source, it's idea, and how you can start contributing... ✨ 
 
 ---
 <pre>
@@ -23,7 +23,7 @@
 
 
 <!--
-**tinkerhubmace/tinkerhubmace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tinkerhubmace/tinkerhubmace** is a ✨ _special_ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
