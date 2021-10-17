@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 # Welcome to TinkerHub MACE 💻
-<img src="./TinkerHub_MACE.png" ></img>
+![](minions-yay.gif)
 
-#### We are a peer learning community, creating exposure in the field of tech.
-#### Let's connect, explore and inspire change together! 👯
+#### We are a peer learning community, creating exposure in the field of tech. Let's connect, explore and inspire change together! 👯
 
 ----
 
