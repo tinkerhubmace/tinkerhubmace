@@ -3,17 +3,15 @@
 # Welcome to TinkerHub MACE! 🤩
 ![](minions-yay.gif)
 
-----
 
 
-## What are we upto right now?
+## Hacktober! Hacktober! Hacktober!
 
-Well, it's halfway through October. Still wondering how to get started with open-source contribution?
-We've got you! ⚡
+Well, it's halfway through October but still wondering how to get started with open-source contribution?
+No worries, we've got you! ⚡
 #### Head over to <a href="https://github.com/tinkerhubmace/mashithandu"> mashithandu </a> and take your first step with us! 👯
 Let's learn more about open source, it's idea, and how you can start contributing... ✨ 
 
----
 <pre>
 ❤️ <a href="https://linktr.ee/tinkerhub.mace"> Join US </a>    |    📷<a href="https://www.instagram.com/tinkerhub.mace/"> Instagram </a>    |    💼<a href="https://www.linkedin.com/company/tinkerhub-mace">LinkedIn</a>    |   🐥<a href="https://twitter.com/TinkerhubMace">Twitter</a>    
 </pre>
