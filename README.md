@@ -3,10 +3,12 @@
 # Welcome to TinkerHub MACE 💻
 <img src="./TinkerHub_MACE.png" ></img>
 
-We are a peer learning community, creating exposure in the field of tech.
-Let's connect, explore and inspire change together! 👯
+### We are a peer learning community, creating exposure in the field of tech.
+### Let's connect, explore and inspire change together! 👯
 
-### What are we upto right now?
+---
+
+## What are we upto right now?
 
 Well, it's halfway through October. Still wondering how to get started with open-source contribution?
 We've got you! ⚡
