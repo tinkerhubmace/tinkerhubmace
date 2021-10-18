@@ -2,7 +2,7 @@
 
 Well, it's halfway through October but still wondering how to get started with open-source contribution?
 No worries, we've got you! ⚡
-#### Head over to <a href="https://github.com/tinkerhubmace/mashithandu"> mashithandu </a> and take your first step with us! 👯
+#### Head over to <a href="https://github.com/tinkerhubmace/mashithandu/tree/main/TinkerHub%20MACE"> mashithandu </a> and take your first step with us! 👯
 Let's learn more about open source, it's idea, and how you can start contributing... ✨ 
 
 ![](minions-yay.gif)
